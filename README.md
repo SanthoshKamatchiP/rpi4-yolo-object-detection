@@ -29,7 +29,7 @@ confidence comparisons, and ready-to-use inference scripts.
 
 | NCNN FP32                                  | TFLite INT8                                       |
 |---                                         |---                                                |
-| ![NCNN](samples/ncnn_detection.jpg)        | ![INT8](samples/int8_detection.jpg)               |
+| ![NCNN](samples/ncnn_detection.png)        | ![INT8](samples/int8_detection.png)               |
 | Fewer missed detections, higher confidence | ~2× faster, some missed detections on fast motion |
 
 📹 **Demo videos** (cars, motorbike race, walking people): [Google Drive Link](#)
