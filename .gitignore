@@ -1,0 +1,85 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ========================
+# YOLO / Model files (too big for git)
+# ========================
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.eim
+*.pte
+*.ncnn.bin
+*.ncnn.param
+runs/
+weights/
+yolo*_model/
+yolo*_ncnn_model/
+yolo*_executorch_model/
+yolo*_openvino_model/
+yolo*_tflite_model/
+
+# ========================
+# Datasets (too big)
+# ========================
+dataset/
+datasets/
+images/
+labels/
+*.zip
+
+# EXCEPTION: keep sample images in samples/
+!samples/
+!samples/*.jpg
+!samples/*.png
+!samples/*.jpeg
+
+# ========================
+# Video / Demo outputs (too big)
+# ========================
+*.avi
+*.mp4
+*.mov
+*.mkv
+*.wmv
+demo*.avi
+frames/
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# Jupyter / Colab
+# ========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
