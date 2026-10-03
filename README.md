@@ -32,7 +32,10 @@ confidence comparisons, and ready-to-use inference scripts.
 | ![NCNN](samples/ncnn_detection.png)        | ![INT8](samples/int8_detection.png)               |
 | Fewer missed detections, higher confidence | ~2× faster, some missed detections on fast motion |
 
-📹 **Demo videos** (cars, motorbike race, walking people): [Google Drive Link](#)
+📹 **Demo videos** (cars, motorbike race, walking people): 
+[Google Drive Link_INT8](https://drive.google.com/file/d/18btB0biU3lcJkqI_Vh6oD5Ij3VpBgjqZ/view?usp=sharing) 
+
+[Google Drive Link_NCNN](https://drive.google.com/file/d/1FOhmlRMAhpWQhI1zJy8j5thJRhkukrr3/view?usp=sharing)
 
 ---
 
