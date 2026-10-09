@@ -93,6 +93,9 @@ Follow these guides in order:
 ---
 
 ## Repository Structure
+<img width="318" height="502" alt="image" src="https://github.com/user-attachments/assets/4b199298-3ec8-4c1a-8750-e643bf3a81e0" />
+
+
 rpi4-yolo-object-detection/
 ├── README.md
 ├── LICENSE
