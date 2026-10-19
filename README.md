@@ -1,5 +1,10 @@
 # YOLO Object Detection on Raspberry Pi 4
 
+> 🏆 **Featured by the Official Ultralytics Team!** 
+> The creators of YOLO recognized this benchmark on their global LinkedIn page. [Read the feature post here](https://lnkd.in/p/g3cu2BWt)
+
+---
+
 Run YOLOv8n, YOLO11n, and YOLO26n object detection on a Raspberry Pi 4 (4GB) 
 using **NCNN (FP32)** and **TFLite (INT8)**. Includes real FPS benchmarks, 
 confidence comparisons, and ready-to-use inference scripts.
